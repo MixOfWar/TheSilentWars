@@ -284,6 +284,10 @@ button:hover {
   width: 100px;
 }
 
+.contact img {
+  width: 15%;
+}
+
 .footer {
   position: fixed;
   bottom: 0;
