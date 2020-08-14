@@ -8,6 +8,7 @@ body {
   background: #0a0908;
   color: white;
   font-size: 18px;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 h1,
@@ -18,6 +19,7 @@ h5,
 h6 {
   color: #a97590;
   text-align: center;
+  font-family: 'Dancing Script', sans-serif;
   text-shadow: 0 0 10px #000000, 0 0 5px #000000;
 }
 
