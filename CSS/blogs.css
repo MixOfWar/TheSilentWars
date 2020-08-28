@@ -8,7 +8,7 @@ body {
   background: #0a0908;
   color: rgb(192, 192, 192);
   font-size: 18px;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: "Cormorant Garamond", serif;
 }
 
 h1,
@@ -19,7 +19,7 @@ h5,
 h6 {
   color: #a97590;
   text-align: center;
-  font-family: 'Dancing Script', sans-serif;
+  font-family: "Dancing Script", sans-serif;
   text-shadow: 0 0 10px #000000, 0 0 5px #000000;
 }
 
@@ -33,7 +33,7 @@ a:hover {
   text-decoration: underline;
 }
 
-.header {
+header {
   position: fixed;
   top: 0;
   left: 0;
@@ -45,7 +45,7 @@ a:hover {
   box-shadow: 0 0 10px #000000;
 }
 
-.header ul {
+header ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -56,11 +56,11 @@ a:hover {
   margin: 5px;
 }
 
-.header li {
+header li {
   float: right;
 }
 
-.header li a {
+header li a {
   display: inline-block;
   color: white;
   text-align: center;
@@ -68,7 +68,7 @@ a:hover {
   text-decoration: none;
 }
 
-.header li a:hover {
+header li a:hover {
   background-color: #0a0908;
   border-bottom: 2px solid #30113c;
   box-shadow: 0 0 10px #000000;
@@ -91,8 +91,7 @@ a:hover {
   padding: 2%;
 }
 
-
-.footer {
+footer {
   position: fixed;
   bottom: 0;
   left: 0;
@@ -103,7 +102,7 @@ a:hover {
   border-top: 2px solid #30113c;
 }
 
-.footer a {
+footer a {
   margin-left: 5px;
 }
 
