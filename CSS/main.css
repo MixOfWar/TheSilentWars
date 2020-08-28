@@ -9,6 +9,7 @@ body {
   color: white;
   font-size: 18px;
   font-family: "Cormorant Garamond", serif;
+  margin:  50px 0 60px 0;
 }
 
 h1,
@@ -188,7 +189,7 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 50px;
+  height: 60px;
   text-align: center;
   background: #000000;
   border-top: 2px solid #30113c;
