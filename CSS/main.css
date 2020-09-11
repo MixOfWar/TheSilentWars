@@ -9,7 +9,7 @@ body {
   color: white;
   font-size: 18px;
   font-family: "Cormorant Garamond", serif;
-  margin:  50px 0 60px 0;
+  margin: 50px 0 60px 0;
 }
 
 h1,
@@ -118,6 +118,7 @@ header li {
 .twelve {
   background: #0a0908;
   border-radius: 25px;
+  padding: 2%;
 }
 
 .bar {
@@ -239,6 +240,7 @@ footer li a:hover {
   width: 80%;
   margin: auto;
   display: flex;
+  flex-direction: column;
   justify-content: flex-start;
 }
 
@@ -247,7 +249,7 @@ footer li a:hover {
 .thirdColumn {
   display: flex;
   flex-direction: column;
-  width: 30%;
+  width: 100%;
 }
 
 .blogs ul {
@@ -260,6 +262,7 @@ footer li a:hover {
 .blogs li {
   height: fit-content;
   margin: 10px;
+  padding: 2%;
   background: #020e13;
   border-radius: 25px;
   box-shadow: 4px 4px 10px #000000;
@@ -290,7 +293,7 @@ sub {
   padding: 5px 5px 10px 5px;
 }
 
-@media only screen and (min-width: 551px) {
+@media only screen and (min-width: 751px) {
   body {
     font-size: 22px;
   }
@@ -347,6 +350,16 @@ sub {
 
   .bottomNav {
     display: none;
+  }
+
+  .firstColumn,
+  .secondColumn,
+  .thirdColumn {
+    width: 30%;
+  }
+
+  .blogs {
+    flex-direction: row;
   }
 }
 
