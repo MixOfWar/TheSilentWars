@@ -43,7 +43,7 @@ header {
   right: 0;
   height: 50px;
   background: #000000;
-  border-bottom: 2px solid #30113c;
+  border-bottom: 2px solid #8037b7;
   z-index: 1;
   box-shadow: 0 0 10px #000000;
 }
@@ -70,7 +70,7 @@ header li {
 }
 
 .aboutImg {
-  border: 2px solid #30113c;
+  border: 2px solid #8037b7;
   border-radius: 100%;
 }
 
@@ -156,7 +156,7 @@ input,
 textarea {
   background: #020e13;
   color: white;
-  border: 2px solid #30113c;
+  border: 2px solid #8037b7;
   border-radius: 10px;
 }
 
@@ -200,7 +200,7 @@ footer {
   height: 60px;
   text-align: center;
   background: #000000;
-  border-top: 2px solid #30113c;
+  border-top: 2px solid #8037b7;
   z-index: 1;
 }
 
@@ -233,7 +233,7 @@ footer li a {
 
 footer li a:hover {
   background-color: #0a0908;
-  border-bottom: 2px solid #30113c;
+  border-bottom: 2px solid #8037b7;
   box-shadow: 0 0 10px #000000;
 }
 
@@ -326,7 +326,7 @@ sub {
 
   header li a:hover {
     background-color: #0a0908;
-    border-bottom: 2px solid #30113c;
+    border-bottom: 2px solid #8037b7;
     box-shadow: 0 0 10px #000000;
   }
 

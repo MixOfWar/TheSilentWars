@@ -41,7 +41,7 @@ header {
   right: 0;
   height: 50px;
   background: #000000;
-  border-bottom: 2px solid #30113c;
+  border-bottom: 2px solid #8037b7;
   z-index: 1;
   box-shadow: 0 0 10px #000000;
 }
@@ -79,7 +79,7 @@ footer {
   height: 60px;
   text-align: center;
   background: #000000;
-  border-top: 2px solid #30113c;
+  border-top: 2px solid #8037b7;
 }
 
 .bottomNav {
@@ -111,7 +111,7 @@ footer li a {
 
 footer li a:hover {
   background-color: #0a0908;
-  border-bottom: 2px solid #30113c;
+  border-bottom: 2px solid #8037b7;
   box-shadow: 0 0 10px #000000;
 }
 
@@ -141,7 +141,7 @@ footer li a:hover {
 
   header li a:hover {
     background-color: #0a0908;
-    border-bottom: 2px solid #30113c;
+    border-bottom: 2px solid #8037b7;
     box-shadow: 0 0 10px #000000;
   }
 
