@@ -120,6 +120,14 @@ header li {
   border-radius: 25px;
 }
 
+p {
+  padding: 2%;
+}
+
+sub {
+  padding: 2%;
+}
+
 .bar {
   width: 100%;
   height: 30px;
